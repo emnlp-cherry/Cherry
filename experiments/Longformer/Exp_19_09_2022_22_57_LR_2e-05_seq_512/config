@@ -1,0 +1,12 @@
+Device:cuda:0
+Pretrained_model:allenai/longformer-large-4096
+Freeze_pretrained:True
+Batch_size:8
+Learning_rate:2e-05
+Epochs:5
+Droput:0.0
+Prediction_threshold:0.5
+Max_sequence_length:512
+Padding_strategy:max_length
+Validation_type:holdout
+Experiment highlights: longformer large with context decreased to 512

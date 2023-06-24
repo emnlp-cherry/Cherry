@@ -1,0 +1,12 @@
+Device:cuda:0
+Pretrained_model:bert-base-uncased
+Freeze_pretrained:True
+Batch_size:8
+Learning_rate:2e-06
+Epochs:20
+Droput:0.0
+Prediction_threshold:0.5
+Max_sequence_length:512
+Validation_type:holdout
+Classification_type:1
+Experiment highlights: decreased LR

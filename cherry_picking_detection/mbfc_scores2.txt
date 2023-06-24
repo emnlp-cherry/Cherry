@@ -1,0 +1,36 @@
+outlet:bias_label,bias_score,factuality_label,factuality_Score
+cnn.com:left 10,2,mostly factual,4
+theweek.com:left 9,2,high,3
+slate.com:left 8,2,mostly factual,4
+msn.com:left center 9,1,high,3
+usatoday.com:left center 9,1,mostly factual,4
+yahoo.com:left center 6,1,high,3
+cbsnews.com:left center 6,1,high,3
+abcnews.go.com:left center 6,1,high,3
+cnbc.com:left center 6,1,mostly factual,4
+washingtonexaminer.com:right 4,2,mixed,5
+foxnews.com:right 1,2,mixed,5
+newsmax.com:right 1,2,low,6
+theepochtimes.com:right 6,2,mixed,5
+dailycaller.com:right 5,2,mixed,5
+nypost.com:right center 1,1,mixed,5
+thehill.com:least biased 7,0,mostly factual,4
+observer.com:right center 3,1,high,3
+apnews.com:left center 10,1,high,3
+reuters.com:least biased 3,0,very high,2
+politico.com:left center 9,1,high,3
+latimes.com:left center 5,1,high,3
+bostonglobe.com:left center 7,1,high,3
+nytimes.com:left center 2,1,high,3
+washingtontimes.com:right center 1,1,mixed,5
+oann.com:right 1,2,low,6
+nbcnews.com:left center 4,1,high,3
+huffpost.com:left 8,2,mixed,5
+pbs.org:left center 10,1,mostly factual,4
+bloomberg.com:left center 10,1,mostly factual,4
+washingtonpost.com:left center 4,1,mostly factual,4
+vox.com:left 8,2,high,3
+dallasnews.com:right center 6,1,high,3
+world.wng.org:right 6,2,mixed,5
+wsj.com:right center 1,1,mostly factual,4
+msnbc.com:left 8,2,mixed,5
